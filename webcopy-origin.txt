@@ -1,0 +1,136 @@
+Uri: http://zula.pw/
+File Name: C:\Downloaded Web Sites\zula.pw\index.htm
+Content Type: text/html
+
+Uri: http://zula.pw/cdn.idcgames.com/storage/621/Zula-Character-wallpaper-demir.jpg
+File Name: C:\Downloaded Web Sites\zula.pw\cdn.idcgames.com\storage\621\Zula-Character-wallpaper-demir.jpg
+Content Type: image/jpeg
+
+Uri: http://zula.pw/fav.png
+File Name: C:\Downloaded Web Sites\zula.pw\fav.png
+Content Type: image/png
+
+Uri: http://zula.pw/style.css
+File Name: C:\Downloaded Web Sites\zula.pw\style.css
+Content Type: text/css
+
+Uri: http://zula.pw/bootstrap.css
+File Name: C:\Downloaded Web Sites\zula.pw\bootstrap.css
+Content Type: text/css
+
+Uri: http://zula.pw/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\zula.pw\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://zula.pw/css-family%3dRoboto-300%2c400%2c500%2c700%2c900.html
+File Name: C:\Downloaded Web Sites\zula.pw\css-family=Roboto-300,400,500,700,900.html
+Content Type: text/html
+
+Uri: http://zula.pw/css-family%3dRusso%2bOne.html
+File Name: C:\Downloaded Web Sites\zula.pw\css-family=Russo+One.html
+Content Type: text/html
+
+Uri: https://onay.hilede.com/zulamobil.html
+File Name: C:\Downloaded Web Sites\zula.pw\zulamobil.html
+Content Type: text/html
+
+Uri: http://zula.pw/media.discordapp.net/attachments/579447492475617310/671452083563790592/zula-logov2.png
+File Name: C:\Downloaded Web Sites\zula.pw\media.discordapp.net\attachments\579447492475617310\671452083563790592\zula-logov2.png
+Content Type: image/png
+
+Uri: http://zula.pw/cdn.discordapp.com/attachments/579447492475617310/603262063577661469/FcRiCpr6.jpg
+File Name: C:\Downloaded Web Sites\zula.pw\cdn.discordapp.com\attachments\579447492475617310\603262063577661469\FcRiCpr6.jpg
+Content Type: image/jpeg
+
+Uri: http://zula.pw/Gem.png
+File Name: C:\Downloaded Web Sites\zula.pw\Gem.png
+Content Type: image/png
+
+Uri: http://zula.pw/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.html
+File Name: C:\Downloaded Web Sites\zula.pw\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.html
+Content Type: text/html
+
+Uri: http://zula.pw/jquery.min.js
+File Name: C:\Downloaded Web Sites\zula.pw\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://zula.pw/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\zula.pw\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: http://zula.pw/functions.app.js
+File Name: C:\Downloaded Web Sites\zula.pw\functions.app.js
+Content Type: application/javascript
+
+Uri: http://zula.pw/main.js
+File Name: C:\Downloaded Web Sites\zula.pw\main.js
+Content Type: application/javascript
+
+Uri: http://zula.pw/background-zulahiledernegi.html
+File Name: C:\Downloaded Web Sites\zula.pw\background-zulahiledernegi.html
+Content Type: text/html
+
+Uri: http://zula.pw/btn-generate-left.html
+File Name: C:\Downloaded Web Sites\zula.pw\btn-generate-left.html
+Content Type: text/html
+
+Uri: http://zula.pw/btn-generate-right.html
+File Name: C:\Downloaded Web Sites\zula.pw\btn-generate-right.html
+Content Type: text/html
+
+Uri: http://zula.pw/btn-generate-center.html
+File Name: C:\Downloaded Web Sites\zula.pw\btn-generate-center.html
+Content Type: text/html
+
+Uri: http://zula.pw/glyphicons-halflings-regular.html
+File Name: C:\Downloaded Web Sites\zula.pw\glyphicons-halflings-regular.html
+Content Type: text/html
+
+Uri: http://zula.pw/glyphicons-halflings-regulard41d.html
+File Name: C:\Downloaded Web Sites\zula.pw\glyphicons-halflings-regulard41d.html
+Content Type: text/html
+
+Uri: http://zula.pw/glyphicons-halflings-regular-2.html
+File Name: C:\Downloaded Web Sites\zula.pw\glyphicons-halflings-regular-2.html
+Content Type: text/html
+
+Uri: http://zula.pw/glyphicons-halflings-regular-3.html
+File Name: C:\Downloaded Web Sites\zula.pw\glyphicons-halflings-regular-3.html
+Content Type: text/html
+
+Uri: http://zula.pw/glyphicons-halflings-regular-4.html
+File Name: C:\Downloaded Web Sites\zula.pw\glyphicons-halflings-regular-4.html
+Content Type: text/html
+
+Uri: http://zula.pw/glyphicons-halflings-regular-5.html
+File Name: C:\Downloaded Web Sites\zula.pw\glyphicons-halflings-regular-5.html
+Content Type: text/html
+
+Uri: http://zula.pw/btn.png
+File Name: C:\Downloaded Web Sites\zula.pw\btn.png
+Content Type: image/png
+
+Uri: http://zula.pw/fontawesome-webfont3e6e.eot-v%3d4.7.html
+File Name: C:\Downloaded Web Sites\zula.pw\fontawesome-webfont3e6e.eot-v=4.7.html
+Content Type: text/html
+
+Uri: http://zula.pw/fontawesome-webfontd41d.html
+File Name: C:\Downloaded Web Sites\zula.pw\fontawesome-webfontd41d.html
+Content Type: text/html
+
+Uri: http://zula.pw/fontawesome-webfont3e6e.woff2-v%3d4.7.html
+File Name: C:\Downloaded Web Sites\zula.pw\fontawesome-webfont3e6e.woff2-v=4.7.html
+Content Type: text/html
+
+Uri: http://zula.pw/fontawesome-webfont3e6e.woff-v%3d4.7.html
+File Name: C:\Downloaded Web Sites\zula.pw\fontawesome-webfont3e6e.woff-v=4.7.html
+Content Type: text/html
+
+Uri: http://zula.pw/fontawesome-webfont3e6e.ttf-v%3d4.7.html
+File Name: C:\Downloaded Web Sites\zula.pw\fontawesome-webfont3e6e.ttf-v=4.7.html
+Content Type: text/html
+
+Uri: http://zula.pw/fontawesome-webfont3e6e.svg-v%3d4.7.html
+File Name: C:\Downloaded Web Sites\zula.pw\fontawesome-webfont3e6e.svg-v=4.7.html
+Content Type: text/html
+
